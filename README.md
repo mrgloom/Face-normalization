@@ -5,4 +5,5 @@ Face frontalization:
 ~~~
 https://github.com/shaoguangcheng/faceFrontalization
 https://github.com/dougsouza/face-frontalization
+http://www.openu.ac.il/home/hassner/projects/frontalize/
 ~~~
